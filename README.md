@@ -1,6 +1,6 @@
 ## GRAPH PLOTTER TERMINAL
 **A simple graph plotter made in python which runs in terminal**
-- ** graph-plotter.py** -- Plots graph of any equation or inequation
+- **graph-plotter.py** -- Plots graph of any equation or inequation
 - **graph-plot-overwrite.py** -- Plots graph overwriting previous ones
 ## Screenshots
 Equation: x == 2*y + 10
